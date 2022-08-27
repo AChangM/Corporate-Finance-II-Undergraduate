@@ -1,6 +1,6 @@
 # Corporate-Finance-II-Undergraduate
 
-### Curso de pregrado de Finanzas Corporativas II de la escuela profesional de Ingeniería Económica de la UNI 
+### Curso de pregrado de Finanzas Corporativas II de la escuela profesional de Ingeniería Económica de la FIEECS de la UNI (Lima - Perú)
 
 En este repositorio se encontrará:
 
