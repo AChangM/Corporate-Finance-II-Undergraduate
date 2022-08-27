@@ -1,0 +1,8 @@
+
+'GOOG', 'MSFT', 'AAPL', 'PFE', 'MELI', 'IBM', 'GE', 'PFE', 'MELI', 'BHP'
+
+10 asset
+MSFT, SHI, GE, TSN, AAPL, SBUX, GOOG, AMZN, INTC
+
+5 asset
+ABOT, 
